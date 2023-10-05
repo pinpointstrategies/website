@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Pinpoint Strategies"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: vision.qmd
+        text: Vision
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
