@@ -78,6 +78,7 @@ body {
 /* Buttons =================================================*/
 
 .inside-page__btn {
+  display: inline-flex;
   background-color: transparent;
   border: 2px solid;
   border-radius: .5rem;
@@ -86,6 +87,8 @@ body {
   margin-top: 0rem;
   overflow: hidden;
   padding: .5rem .5rem;
+  align-items: center;
+  justify-content: center;
   position: relative;
   text-decoration: none;
   transition: all .3s ease;
