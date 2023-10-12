@@ -2,6 +2,8 @@
 title: "Pinpoint Solutions"
 ---
 
+Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These packages provide enhanced data visualization tools, package management, collaboration tools and statistics modeling. Additionally, our proprietary software streamlines project management, enhances collaboration, and ensures data security. Through active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses.
+
 ## Open Source
 
 ## Ensembles

@@ -2,7 +2,11 @@
 title: "Pinpoint Thinking"
 ---
 
-Empowering clients to increase their productivity through coaching and training in areas such as:
+Pinpoint offers coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges.
+
+This includes efficiently identifying data inconsistencies, taking corrective actions, integrating relational data to address crucial questions, and designing resilient and reliable data science pipelines for streamlined deployment.
+
+Pinpoint empowers clients to increase their productivity through coaching and training in areas such as:
 
 -   Clinical Trial Design Decision Making and Strategies
 

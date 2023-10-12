@@ -26,7 +26,3 @@
   background-color: var(--pincolor);
   color: white;
 }
-
-#logo {
-  transform: scale(0.1);
-}
