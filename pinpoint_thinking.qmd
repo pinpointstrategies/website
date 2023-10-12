@@ -2,40 +2,32 @@
 title: "Pinpoint Thinking"
 ---
 
+## Coaching and Strategic Planning Services
+
 Pinpoint offers coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges.
 
 This includes efficiently identifying data inconsistencies, taking corrective actions, integrating relational data to address crucial questions, and designing resilient and reliable data science pipelines for streamlined deployment.
 
-Pinpoint empowers clients to increase their productivity through coaching and training in areas such as:
+### Clinical Trial Design Decision Making and Strategies
 
--   Clinical Trial Design Decision Making and Strategies
+-   CNS endpoint strategy: Major Depressive Disorders, Postpartum Depression, General Anxiety Disorder, Huntington's Disease, Parkinson's Disease, Alzheimer's Disease, Essential tremor disorders
 
-    -   CNS endpoint strategy: Major Depressive Disorders, Postpartum Depression, General Anxiety Disorder, Huntington's Disease, Parkinson's Disease, Alzheimer's Disease, Essential tremor disorders
+###   Modeling and Simulation
 
--   Modeling and Simulation
+-   Simulation concepts and strategies
+-   Introductory and Advanced Bayesian Data Analysis
+-   Go/No-Go criteria modeling
+-   Sample Size estimation
 
-    -   Simulation concepts and strategies
+###   Data Science Solutions with R
 
-    -   Introductory and Advanced Bayesian Data Analysis
+-   Data science basic and advanced concepts
+-   Ingesting, Cleaning and Interrogating structured and unstructured data
+-   Structuring pipelines for reproducible workflows
+-   Communicating concepts and results to team members, decision makers and non-technical audiences
+-   Developing interactive applications with Shiny and D3.js
 
-    -   Go/No-Go criteria modeling
+###   Compute Infrastructure
 
-    -   Sample Size estimation
-
--   Data Science Solutions with R
-
-    -   Data science basic and advanced concepts
-
-    -   Ingesting, Cleaning and Interrogating structured and unstructured data
-
-    -   Structuring pipelines for reproducible workflows
-
-    -   Communicating concepts and results to team members, decision makers and non-technical audiences
-
-    -   Developing interactive applications with Shiny and D3.js
-
--   Compute Infrastructure
-
-    -   Working in High Performance Computing (HPC) environments
-
-    -   Setting up cloud computing workstations
+-   Working in High Performance Computing (HPC) environments
+-   Setting up cloud computing workstations

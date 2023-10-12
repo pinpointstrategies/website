@@ -25,28 +25,28 @@
     "href": "pinpoint_solutions.html",
     "title": "Pinpoint Solutions",
     "section": "",
-    "text": "Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These packages provide enhanced data visualization tools, package management, collaboration tools and statistics modeling. Additionally, our proprietary software streamlines project management, enhances collaboration, and ensures data security. Through active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses."
+    "text": "Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These tools provide enhanced data visualization tools, package management, collaboration tools and statistics modeling."
   },
   {
     "objectID": "pinpoint_solutions.html#open-source",
     "href": "pinpoint_solutions.html#open-source",
     "title": "Pinpoint Solutions",
     "section": "Open Source",
-    "text": "Open Source"
+    "text": "Open Source\nThrough active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses."
   },
   {
     "objectID": "pinpoint_solutions.html#ensembles",
     "href": "pinpoint_solutions.html#ensembles",
     "title": "Pinpoint Solutions",
     "section": "Ensembles",
-    "text": "Ensembles"
+    "text": "Ensembles\nOur proprietary software streamlines project management, enhances collaboration, and ensures data security."
   },
   {
     "objectID": "pinpoint_analytics.html",
     "href": "pinpoint_analytics.html",
     "title": "Pinpoint Analytics",
     "section": "",
-    "text": "Transforming Complexity into Clarity: At Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations. We specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights."
+    "text": "Transforming Complexity into Clarity\nAt Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations.\nWe specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights."
   },
   {
     "objectID": "contact.html",
@@ -67,6 +67,13 @@
     "href": "pinpoint_thinking.html",
     "title": "Pinpoint Thinking",
     "section": "",
-    "text": "Pinpoint offers coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges.\nThis includes efficiently identifying data inconsistencies, taking corrective actions, integrating relational data to address crucial questions, and designing resilient and reliable data science pipelines for streamlined deployment.\nPinpoint empowers clients to increase their productivity through coaching and training in areas such as:\n\nClinical Trial Design Decision Making and Strategies\n\nCNS endpoint strategy: Major Depressive Disorders, Postpartum Depression, General Anxiety Disorder, Huntington’s Disease, Parkinson’s Disease, Alzheimer’s Disease, Essential tremor disorders\n\nModeling and Simulation\n\nSimulation concepts and strategies\nIntroductory and Advanced Bayesian Data Analysis\nGo/No-Go criteria modeling\nSample Size estimation\n\nData Science Solutions with R\n\nData science basic and advanced concepts\nIngesting, Cleaning and Interrogating structured and unstructured data\nStructuring pipelines for reproducible workflows\nCommunicating concepts and results to team members, decision makers and non-technical audiences\nDeveloping interactive applications with Shiny and D3.js\n\nCompute Infrastructure\n\nWorking in High Performance Computing (HPC) environments\nSetting up cloud computing workstations"
+    "text": "Pinpoint offers coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges.\nThis includes efficiently identifying data inconsistencies, taking corrective actions, integrating relational data to address crucial questions, and designing resilient and reliable data science pipelines for streamlined deployment.\n\n\n\nCNS endpoint strategy: Major Depressive Disorders, Postpartum Depression, General Anxiety Disorder, Huntington’s Disease, Parkinson’s Disease, Alzheimer’s Disease, Essential tremor disorders\n\n\n\n\n\nSimulation concepts and strategies\nIntroductory and Advanced Bayesian Data Analysis\nGo/No-Go criteria modeling\nSample Size estimation\n\n\n\n\n\nData science basic and advanced concepts\nIngesting, Cleaning and Interrogating structured and unstructured data\nStructuring pipelines for reproducible workflows\nCommunicating concepts and results to team members, decision makers and non-technical audiences\nDeveloping interactive applications with Shiny and D3.js\n\n\n\n\n\nWorking in High Performance Computing (HPC) environments\nSetting up cloud computing workstations"
+  },
+  {
+    "objectID": "pinpoint_thinking.html#coaching-and-strategic-planning-services",
+    "href": "pinpoint_thinking.html#coaching-and-strategic-planning-services",
+    "title": "Pinpoint Thinking",
+    "section": "",
+    "text": "Pinpoint offers coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges.\nThis includes efficiently identifying data inconsistencies, taking corrective actions, integrating relational data to address crucial questions, and designing resilient and reliable data science pipelines for streamlined deployment.\n\n\n\nCNS endpoint strategy: Major Depressive Disorders, Postpartum Depression, General Anxiety Disorder, Huntington’s Disease, Parkinson’s Disease, Alzheimer’s Disease, Essential tremor disorders\n\n\n\n\n\nSimulation concepts and strategies\nIntroductory and Advanced Bayesian Data Analysis\nGo/No-Go criteria modeling\nSample Size estimation\n\n\n\n\n\nData science basic and advanced concepts\nIngesting, Cleaning and Interrogating structured and unstructured data\nStructuring pipelines for reproducible workflows\nCommunicating concepts and results to team members, decision makers and non-technical audiences\nDeveloping interactive applications with Shiny and D3.js\n\n\n\n\n\nWorking in High Performance Computing (HPC) environments\nSetting up cloud computing workstations"
   }
 ]
