@@ -10,8 +10,6 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: vision.qmd
-        text: Vision
       - href: contact.qmd
         text: Contact
 

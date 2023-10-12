@@ -7,14 +7,11 @@ title: ""
 ```
 
 ```{=html}
+<section>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 55">
   <defs>
   <style type="text/css">
   @import url(https://fonts.googleapis.com/css2?family=Karla:wght@300;400&display=swap);
-  :root {
-  --pincolor: #2485D6;
-  --textcolor: #565B5D;
-}
   </style>
   <g id="logo">
     <circle cx="50" cy="26" r="15" fill="var(--pincolor)"  stroke="black" stroke-width="2"/>
@@ -39,14 +36,13 @@ title: ""
   </defs>
   <use xlink:href="#full-logo" transform = "scale(1.5)">
 </svg>
-
+</section>
 <h2>Insights, Efficiency and Innovation</h2>
 ```
 
 
 ```{=html}
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-viewBox="0 0 150 150" style="enable-background:new 0 0 150 150;" xml:space="preserve" class="card-front__icon">
+<svg viewBox="0 0 0 0">
 <defs>
 <g id="cardlogo">
 <circle cx="50" cy="26" r="15" fill="white"  stroke="black" stroke-width="2"/>
@@ -140,7 +136,7 @@ Explore
 Pinpoint Solutions
 </h3>
 <p class="inside-page__text">
-A wide range of open-source and proprietary tools designed to address common data science and organizational challenges
+Open-source and proprietary tools designed to address common data science and organizational challenges
 </p>
 <a href="pinpoint_solutions.html" class="inside-page__btn inside-page__btn--solutions">Learn More</a>
 </div>
