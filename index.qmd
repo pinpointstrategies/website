@@ -1,21 +1,29 @@
 ---
-title: "Pinpoint Strategies"
+title: "Insights, Efficiency and Innovation"
 ---
+
+```{=html}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400&display=swap" rel="stylesheet">
+```
 
 ## Pinpoint Analytics
 
 Transforming Complexity into Clarity: At Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations. We specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights.
 
-[Learn more about Pinpoint Analytics](pinpoint_analytics.qmd "Pinpoint Analytics")
+<button onclick="location.href='pinpoint_analytics.html'" class="button button1" type="button">Learn more about Pinpoint Analytics</button>
 
 ## Pinpoint Solutions
 
-Pinpoint Solutions has developed an extensive library of both open source and proprietary tools to bring actionable solutions for common data science and organizational challenges.
+Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These packages provide enhanced data visualization tools, package management, collaboration tools and statistics modeling. Additionally, our proprietary software streamlines project management, enhances collaboration, and ensures data security. Through active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses.
 
-[Learn more about Pinpoint Solutions](pinpoint_solutions.qmd "Pinpoint Solutions")
+<button onclick="location.href='pinpoint_solutions.html'" class="button button1" type="button">Learn more about Pinpoint Solutions</button>
 
 ## Pinpoint Thinking
 
-Pinpoint provides coaching and strategy services to empower clients to navigate through complex problems in Data plumbing, Data welding, Data science pipeline planning and deployment, Clinical development decision making and more.
+Pinpoint offers coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges.
 
-[Learn more about Pinpoint Thinking](pinpoint_thinking.qmd "Pinpoint Thinking")
+This includes efficiently identifying data inconsistencies, taking corrective actions, integrating relational data to address crucial questions, and designing resilient and reliable data science pipelines for streamlined deployment.
+
+<button onclick="location.href='pinpoint_thinking.html'" class="button button1" type="button">Learn more about Pinpoint Thinking</button>

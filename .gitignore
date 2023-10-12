@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-
+logo.svg
+logo.html
 /.quarto/

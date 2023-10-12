@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Pinpoint Strategies",
+    "title": "Insights, Efficiency and Innovation",
     "section": "",
-    "text": "Transforming Complexity into Clarity: At Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations. We specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights.\nLearn more about Pinpoint Analytics"
+    "text": "Transforming Complexity into Clarity: At Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations. We specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights.\n\nLearn more about Pinpoint Analytics"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Jonathan Sidi",
     "section": "",
     "text": "Fifteen years of consulting for a diverse client base providing solutions in the fields of Clinical development, Health Economics, Macroeconomics, Macroprudential Stability, and Criminology."
   },
@@ -23,16 +23,16 @@
   {
     "objectID": "index.html#pinpoint-thinking",
     "href": "index.html#pinpoint-thinking",
-    "title": "Pinpoint Strategies",
+    "title": "Insights, Efficiency and Innovation",
     "section": "Pinpoint Thinking",
-    "text": "Pinpoint Thinking\nPinpoint provides coaching and strategy services to empower clients to navigate through complex problems in Data plumbing, Data welding, Data science pipeline planning and deployment, Clinical development decision making and more.\nLearn more about Pinpoint Thinking"
+    "text": "Pinpoint Thinking\nPinpoint offers coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges.\nThis includes efficiently identifying data inconsistencies, taking corrective actions, integrating relational data to address crucial questions, and designing resilient and reliable data science pipelines for streamlined deployment.\n\nLearn more about Pinpoint Thinking"
   },
   {
     "objectID": "index.html#pinpoint-analytics",
     "href": "index.html#pinpoint-analytics",
-    "title": "Pinpoint Strategies",
-    "section": "",
-    "text": "Transforming Complexity into Clarity: At Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations. We specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights.\nLearn more about Pinpoint Analytics"
+    "title": "Insights, Efficiency and Innovation",
+    "section": "Pinpoint Analytics",
+    "text": "Pinpoint Analytics\nTransforming Complexity into Clarity: At Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations. We specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights.\n\nLearn more about Pinpoint Analytics"
   },
   {
     "objectID": "index.html#pinpoint-systems",
@@ -44,8 +44,50 @@
   {
     "objectID": "index.html#pinpoint-solutions",
     "href": "index.html#pinpoint-solutions",
-    "title": "Pinpoint Strategies",
+    "title": "Insights, Efficiency and Innovation",
     "section": "Pinpoint Solutions",
-    "text": "Pinpoint Solutions\nPinpoint Solutions has developed an extensive library of both open source and proprietary tools to bring actionable solutions for common data science and organizational challenges.\nLearn more about Pinpoint Solutions"
+    "text": "Pinpoint Solutions\nPinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These packages provide enhanced data visualization tools, package management, collaboration tools and statistics modeling. Additionally, our proprietary software streamlines project management, enhances collaboration, and ensures data security. Through active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses.\n\nLearn more about Pinpoint Solutions"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Seeking more information?\n\n\nLocation\n177 Huntington Ave Ste 1703 PMB 775613, Boston, MA, 02115-3153, US\n\n\nPhone\n+1 860 670 8210"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jonathan Sidi",
+    "section": "Education",
+    "text": "Education\nPhD in Statistics, Hebrew University in Jerusalem, Jerusalem, Israel"
+  },
+  {
+    "objectID": "about.html#explerience",
+    "href": "about.html#explerience",
+    "title": "About",
+    "section": "Explerience",
+    "text": "Explerience\nDirector of Modeling and Simulation, Sage Therapeutics\nResearch Scientist, Metrum Research Group"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Jonathan Sidi",
+    "section": "Experience",
+    "text": "Experience\nDirector of Modeling and Simulation, Sage Therapeutics\nResearch Scientist, Metrum Research Group"
+  },
+  {
+    "objectID": "pinpoint_thinking.html",
+    "href": "pinpoint_thinking.html",
+    "title": "Pinpoint Thinking",
+    "section": "",
+    "text": "Empowering clients to increase their productivity through coaching and training in areas such as:\n\nClinical Trial Design Decision Making and Strategies\n\nCNS endpoint strategy: Major Depressive Disorders, Postpartum Depression, General Anxiety Disorder, Huntington’s Disease, Parkinson’s Disease, Alzheimer’s Disease, Essential tremor disorders\n\nModeling and Simulation\n\nSimulation concepts and strategies\nIntroductory and Advanced Bayesian Data Analysis\nGo/No-Go criteria modeling\nSample Size estimation\n\nData Science Solutions with R\n\nData science basic and advanced concepts\nIngesting, Cleaning and Interrogating structured and unstructured data\nStructuring pipelines for reproducible workflows\nCommunicating concepts and results to team members, decision makers and non-technical audiences\nDeveloping interactive applications with Shiny and D3.js\n\nCompute Infrastructure\n\nWorking in High Performance Computing (HPC) environments\nSetting up cloud computing workstations"
+  },
+  {
+    "objectID": "pinpoint_solutions.html#ensembles",
+    "href": "pinpoint_solutions.html#ensembles",
+    "title": "Pinpoint Solutions",
+    "section": "Ensembles",
+    "text": "Ensembles"
   }
 ]

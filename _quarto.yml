@@ -11,6 +11,8 @@ website:
         text: About
       - href: vision.qmd
         text: Vision
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
