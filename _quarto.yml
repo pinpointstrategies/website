@@ -8,11 +8,30 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: Services
+        menu:
+          - href: pinpoint_analytics.qmd
+            text: Pinpoint Analytics
+          - href: pinpoint_solutions.qmd
+            text: Pinpoint Solutions
+          - href: pinpoint_thinking.qmd
+            text: Pinpoint Thinking
       - href: about.qmd
         text: About
       - href: contact.qmd
         text: Contact
 
+    right:
+      - icon: github
+        text: GitHub
+        href: https://github.com/pinpointstrategies
+        aria-label: GitHub
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/jonathan-sidi-397a4036/
+      - icon: envelope
+        text: Email
+        href: "mailto:yoni@pinpointstrategies.io"
 format:
   html:
     theme: cosmo

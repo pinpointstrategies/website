@@ -42,16 +42,17 @@ title: ""
 
 
 ```{=html}
-<svg viewBox="0 0 0 0">
+<div>
+<svg viewBox="0 0 0 0" style="display: block;" height="0" width="0">
 <defs>
 <g id="cardlogo">
 <circle cx="50" cy="26" r="15" fill="white"  stroke="black" stroke-width="2"/>
 <circle cx="50" cy="49.5" r="48" fill="none" stroke="white" stroke-width="5"/>
-<path d="M49,44 L 50,93 L 51,44" fill="white"/>
+<path d="M48,44 L 50,93 L 52,44" fill="black"/>
 </g>
 </defs>
 </svg>
-
+</div>
 <section class="card-area">
 
 <!-- Card: Analytics -->

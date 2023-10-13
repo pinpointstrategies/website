@@ -3,6 +3,7 @@
   --pincolor: #2485D6;
   --textcolor: #565B5D;
 }
+/*
 .button {
   border: none;
   color: white;
@@ -26,3 +27,4 @@
   background-color: var(--pincolor);
   color: white;
 }
+/*

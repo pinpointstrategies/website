@@ -2,8 +2,20 @@
 title: "Pinpoint Analytics"
 ---
 
-### Transforming Complexity into Clarity
+## Transforming Complexity into Clarity
 
 At Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations.
 
 We specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights.
+
+### Understanding the Data that Drives Your Decisions
+
+Ingesting, interrogating and combining complex data is the cornerstone of understanding your data and gaining insights to both the planned questions and the questions discovered along the journey.
+
+### Data Communication
+
+Communicating the underlying structures within the data can take on many forms. Pinpoint Analytics provides the agility of moving fluidly from a variety of presentation modes from standard static outputs to advanced interactive web applications.
+
+### Modeling and Simulation
+
+Collaborating with our clients on understanding what drives their decision making we develop tailored modeling and simulation solutions that will empower them with in depth insights and increased confidence.

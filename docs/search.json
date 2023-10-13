@@ -25,14 +25,7 @@
     "href": "pinpoint_solutions.html",
     "title": "Pinpoint Solutions",
     "section": "",
-    "text": "Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These tools provide enhanced data visualization tools, package management, collaboration tools and statistics modeling."
-  },
-  {
-    "objectID": "pinpoint_solutions.html#open-source",
-    "href": "pinpoint_solutions.html#open-source",
-    "title": "Pinpoint Solutions",
-    "section": "Open Source",
-    "text": "Open Source\nThrough active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses."
+    "text": "Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These tools provide enhanced data visualization tools, package management, collaboration tools and statistical modeling."
   },
   {
     "objectID": "pinpoint_solutions.html#ensembles",
@@ -42,11 +35,25 @@
     "text": "Ensembles\nOur proprietary software streamlines project management, enhances collaboration, and ensures data security."
   },
   {
+    "objectID": "pinpoint_solutions.html#open-source",
+    "href": "pinpoint_solutions.html#open-source",
+    "title": "Pinpoint Solutions",
+    "section": "Open Source",
+    "text": "Open Source\nThrough active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses.\nR Packages that are developed by Pinpoint Solutions that are on CRAN and GitHub\n\nPackage Development: sinew, covrpage, reactor, tidycheckUsage\nReproducibility: carbonate, whereami, snapper, gdigest\nShiny Applications: ggedit, shinyHeatmaply, regexSelect, carbonace, CIMDO\nCommunication: slackverse\nUtilities: details, shredder, rsam, bplyr, vcs\nStatistical Modeling: lmmen\nHtmlwidgets: slickR, jsTree, d3Tree, shinyCanvas, rpdf\n\nR Packages that are developed by Pinpoint Solutions in collaboration with external groups\n\nggeasy, ggalt, mmrm, mmrm.brms, remedy, slackr"
+  },
+  {
     "objectID": "pinpoint_analytics.html",
     "href": "pinpoint_analytics.html",
     "title": "Pinpoint Analytics",
     "section": "",
-    "text": "Transforming Complexity into Clarity\nAt Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations.\nWe specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights."
+    "text": "At Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations.\nWe specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights.\n\n\nIngesting, interrogating and combining complex data is the cornerstone of understanding your data and gaining insights to both the planned questions and the questions discovered along the journey.\n\n\n\nCommunicating the underlying structures within the data can take on many forms. Pinpoint Analytics provides the agility of moving fluidly from a variety of presentation modes from standard static outputs to advanced interactive web applications.\n\n\n\nCollaborating with our clients on understanding what drives their decision making we develop tailored modeling and simulation solutions that will empower them with in depth insights and increased confidence."
+  },
+  {
+    "objectID": "pinpoint_analytics.html#transforming-complexity-into-clarity",
+    "href": "pinpoint_analytics.html#transforming-complexity-into-clarity",
+    "title": "Pinpoint Analytics",
+    "section": "",
+    "text": "At Pinpoint Strategies, we decode intricate data puzzles, crafting actionable insights through advanced modeling and intuitive visualizations.\nWe specialize in simplifying complex data landscapes, empowering your organization to make informed decisions with confidence. With our expertise, your data becomes a strategic asset, guiding your path to success. Partner with us and elevate your decision-making journey to new heights.\n\n\nIngesting, interrogating and combining complex data is the cornerstone of understanding your data and gaining insights to both the planned questions and the questions discovered along the journey.\n\n\n\nCommunicating the underlying structures within the data can take on many forms. Pinpoint Analytics provides the agility of moving fluidly from a variety of presentation modes from standard static outputs to advanced interactive web applications.\n\n\n\nCollaborating with our clients on understanding what drives their decision making we develop tailored modeling and simulation solutions that will empower them with in depth insights and increased confidence."
   },
   {
     "objectID": "contact.html",
@@ -60,7 +67,7 @@
     "href": "index.html",
     "title": "Pinpoint Strategies",
     "section": "",
-    "text": "PINP\n    \n    \n    \n        INT\n    \n  \n  \n  \n    \n        STRATEGIES\n    \n  \n  \n  \n\n\nInsights, Efficiency and Innovation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Analytics\n\n\n\n\n\nExplore\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Analytics\nDecode intricate data puzzles, craft actionable insights through advanced modeling and intuitive visualizations\nLearn More\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Solutions\n\n\n\n\n\nExplore\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Solutions\nOpen-source and proprietary tools designed to address common data science and organizational challenges\nLearn More\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Thinking\n\n\n\n\n\nExplore\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Thinking\n\nCoaching and strategy services, empowering clients to navigate complex data science and clinical development challenges\n\nLearn More"
+    "text": "PINP\n    \n    \n    \n        INT\n    \n  \n  \n  \n    \n        STRATEGIES\n    \n  \n  \n  \n\n\nInsights, Efficiency and Innovation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Analytics\n\n\n\n\n\nExplore\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Analytics\nDecode intricate data puzzles, craft actionable insights through advanced modeling and intuitive visualizations\nLearn More\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Solutions\n\n\n\n\n\nExplore\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Solutions\nOpen-source and proprietary tools designed to address common data science and organizational challenges\nLearn More\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Thinking\n\n\n\n\n\nExplore\n\n\n\n\n\n\n\n\n\n\n\n\n\nPinpoint Thinking\n\nCoaching and strategy services, empowering clients to navigate complex data science and clinical development challenges\n\nLearn More"
   },
   {
     "objectID": "pinpoint_thinking.html",

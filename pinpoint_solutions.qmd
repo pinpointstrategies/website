@@ -2,12 +2,32 @@
 title: "Pinpoint Solutions"
 ---
 
-Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These tools provide enhanced data visualization tools, package management, collaboration tools and statistics modeling.
+Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These tools provide enhanced data visualization tools, package management, collaboration tools and statistical modeling.
+
+## Ensembles
+
+Our proprietary software streamlines project management, enhances collaboration, and ensures data security.
 
 ## Open Source
 
 Through active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses.
 
-## Ensembles
+R Packages that are developed by Pinpoint Solutions that are on CRAN and GitHub
 
-Our proprietary software streamlines project management, enhances collaboration, and ensures data security.
+-   **Package Development**: sinew, covrpage, reactor, tidycheckUsage
+
+-   **Reproducibility**: carbonate, whereami, snapper, gdigest
+
+-   **Shiny Applications**: ggedit, shinyHeatmaply, regexSelect, carbonace, CIMDO
+
+-   **Communication**: slackverse
+
+-   **Utilities**: details, shredder, rsam, bplyr, vcs
+
+-   **Statistical Modeling**: lmmen
+
+-   **Htmlwidgets**: slickR, jsTree, d3Tree, shinyCanvas, rpdf
+
+R Packages that are developed by Pinpoint Solutions in collaboration with external groups
+
+-   ggeasy, ggalt, mmrm, mmrm.brms, remedy, slackr
