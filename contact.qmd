@@ -2,7 +2,57 @@
 title: "Contact"
 ---
 
-### Seeking more information?
+<blockquote>
+<p>Seeking more information?</p>
+<p><b>Please fill in the form below.</b></p>
+</blockquote>
+
+```{=html}
+<main class="main_contact">
+
+<form method="POST" action="/api/submit">
+
+	<div class="input">
+  <label for="name">Full Name*</label>
+  <input id="name" type="text" name="name" pattern="[A-Za-z]+" required />
+  </div>
+
+  <div class="input">
+  <label for="jobtitle">Job Title*</label>
+  <input id="jobtitle" type="text" name="jobtitle" required />
+  </div>
+	
+  <div class="input">
+  <label for="name">Company Name*</label>
+  <input id="companyname" type="text" name="companyname" required />
+  </div>
+
+  <div class="input">
+  <label for="email">Email Address*</label>
+  <input id="email" type="email" name="email" required />
+  </div>
+
+	<div class="input">
+  <label for="helptype">What type of help do you need?*</label>
+  <select id="helptype" name="helptype" required>
+      <option hidden disabled selected value>Select One</option>
+      <option value="MandS">Modeling and Simulation</option>
+      <option value="ensembles">Ensembles</option>
+      <option value="training">Training/Coaching</option>
+      <option value="opensience">Open Science</option>
+      <option value="other">Other</option>
+  </select>
+  </div>
+
+  <div class="input">
+  <label for="message">Specific Question</label>
+  <textarea id="message" name="message"></textarea>
+  </div>
+	
+  <button type="submit">Submit</button>
+</form>
+</main>
+```
 
 ### Email
 
