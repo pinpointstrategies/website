@@ -3,22 +3,25 @@ on:
   push:
     branches: dev
 
-name: Quarto Publish
+name: Quarto Publish to Cloudfare Pages
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      deployments: write # needed for Cloudflare
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
-        with:
-          to: html # If set, it will be equivalent to `quarto render --to html`
 
       - name: Publish
         uses: cloudflare/pages-action@v1
@@ -26,5 +29,5 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: 'website'
-          directory: '/docs' # or _site or any other directory you used as project's output-dir in `_quarto.yml`
+          directory: 'docs' # or _site or any other directory you used as project's output-dir in `_quarto.yml`
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
