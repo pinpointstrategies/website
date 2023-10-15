@@ -2,7 +2,7 @@
 title: "Jonathan Sidi"
 about:
   template: jolla
-  image: headshot.jpeg
+  image: images/headshot.jpeg
   links:
     - icon: github
       text: Github

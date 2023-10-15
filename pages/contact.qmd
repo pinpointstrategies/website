@@ -14,7 +14,8 @@ title: "Contact"
 
 	<div class="input">
   <label for="name">Full Name*</label>
-  <input id="name" type="text" name="name" pattern="[A-Za-z]+" required />
+  <input id="name" type="text" name="name"
+  required />
   </div>
 
   <div class="input">

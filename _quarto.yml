@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - functions
+    - images
 
 website:
   title: "Pinpoint Strategies"
@@ -10,15 +13,15 @@ website:
         text: Home
       - text: Services
         menu:
-          - href: pinpoint_analytics.qmd
+          - href: pages/pinpoint_analytics.qmd
             text: Pinpoint Analytics
-          - href: pinpoint_solutions.qmd
+          - href: pages/pinpoint_solutions.qmd
             text: Pinpoint Solutions
-          - href: pinpoint_thinking.qmd
+          - href: pages/pinpoint_thinking.qmd
             text: Pinpoint Thinking
-      - href: about.qmd
+      - href: pages/about.qmd
         text: About
-      - href: contact.qmd
+      - href: pages/contact.qmd
         text: Contact
 
     right:
