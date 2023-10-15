@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - js
+    - functions
     - images
 
 website:
@@ -40,9 +40,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-    include-in-header:
-      - text: |
-          <script src="../functions/api/submit.js"></script>
 
 editor: visual
 

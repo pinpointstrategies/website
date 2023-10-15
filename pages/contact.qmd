@@ -1,5 +1,10 @@
 ---
 title: "Contact"
+format:
+  html:
+    include-in-header:
+      - text: |
+          <script src="../functions/api/submit.js"></script>
 ---
 
 <blockquote>
