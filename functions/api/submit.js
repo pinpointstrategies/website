@@ -14,7 +14,7 @@ form.addEventListener("submit", (event) => {
     jobtitle: jobtitle.value,
     companyname: companyname.value,
     email: email.value,
-    helptype: helptype.value
+    helptype: helptype.value,
     message: message.value
   });
   const requestOptions = {
