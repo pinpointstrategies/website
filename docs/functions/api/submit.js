@@ -18,7 +18,7 @@ export async function onRequestPost(context) {
     }
 
     let pretty = JSON.stringify(output, null, 2);
-    console.print(pretty)
+    console.log(pretty)
 
     return new Response(pretty, {
       headers: {
