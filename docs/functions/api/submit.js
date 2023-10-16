@@ -25,6 +25,15 @@ export async function onRequestPost(context) {
       body
     };
 
+    fetch(endpoint, requestOptions)
+    .then((response) => {
+      if (!response.ok) throw new Error("Error in fetch");
+      return response.json();
+    })
+    .catch((error) => {
+      console.log(error)
+    });
+
     return new Response(body, {
       headers: {
         'Content-Type': 'application/json;charset=utf-8',
