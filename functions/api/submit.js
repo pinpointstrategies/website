@@ -33,14 +33,14 @@ export async function onRequestPost(context) {
     fetch(endpoint, requestOptions)
     .then((response) => {
       if (!response.ok) throw new Error("Error in fetch");
-      console.log('');
+      console.log('posting to lambda');
       return response.json();
     })
     .catch((error) => {
       console.log(error)
     });
 
-    return new Response.redirect(url);
+    /*return new Response.redirect(url);*/
 
   } catch (err) {
       return new Response('Error Posting', { status: 400 });
