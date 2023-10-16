@@ -18,7 +18,7 @@ export async function onRequestPost(context) {
     const body = JSON.stringify(output, null, 2);
 
     const endpoint =
-    "<https://58ho8blr2h.execute-api.us-east-2.amazonaws.com/default/sendContactEmail>";
+    "<https://58ho8blr2h.execute-api.us-east-2.amazonaws.com/addMethods/sendContactEmail>";
 
     const requestOptions = {
       method: "POST",
