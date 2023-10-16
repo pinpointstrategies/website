@@ -14,6 +14,11 @@ export async function onRequestPost(context) {
         output[key] = [].concat(tmp, value);
       }
     }
+  } catch (err) {
+    return new Response('Error parsing JSON content', { status: 400 });
+  }
+  try {
+    const url = "/";
 
     const body = JSON.stringify(output, null, 2);
 
@@ -28,19 +33,17 @@ export async function onRequestPost(context) {
     fetch(endpoint, requestOptions)
     .then((response) => {
       if (!response.ok) throw new Error("Error in fetch");
+      console.log('');
       return response.json();
     })
     .catch((error) => {
       console.log(error)
     });
 
-    return new Response(body, {
-      headers: {
-        'Content-Type': 'application/json;charset=utf-8',
-      },
-    });
+    return new Response.redirect(url);
+
   } catch (err) {
-    return new Response('Error parsing JSON content', { status: 400 });
+      return new Response('Error Posting', { status: 400 });
   }
 
 }
