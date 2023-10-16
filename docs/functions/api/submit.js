@@ -5,8 +5,6 @@ export async function onRequestPost(context) {
   try {
     let input = await context.request.formData();
 
-    // Convert FormData to JSON
-    // NOTE: Allows multiple values per key
     let output = {};
     for (let [key, value] of input) {
       let tmp = output[key];
@@ -17,10 +15,17 @@ export async function onRequestPost(context) {
       }
     }
 
-    let pretty = JSON.stringify(output, null, 2);
-    console.log(pretty)
+    const body = JSON.stringify(output, null, 2);
 
-    return new Response(pretty, {
+    const endpoint =
+    "<https://58ho8blr2h.execute-api.us-east-2.amazonaws.com/default/sendContactEmail>";
+
+    const requestOptions = {
+      method: "POST",
+      body
+    };
+
+    return new Response(body, {
       headers: {
         'Content-Type': 'application/json;charset=utf-8',
       },
