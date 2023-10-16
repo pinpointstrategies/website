@@ -5,7 +5,7 @@ export async function onRequestPost(context) {
   try {
     let input = await context.request.formData();
 
-    let output = {};
+    var output = {};
     for (let [key, value] of input) {
       let tmp = output[key];
       if (tmp === undefined) {
