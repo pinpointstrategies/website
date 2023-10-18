@@ -20,9 +20,10 @@ form.addEventListener("submit", (event) => {
     method: "POST",
     body
   };
-console.log(endpoint);
+
   fetch(endpoint, requestOptions)
     .then((response) => {
+      console.log(response.json());
       if (!response.ok) throw new Error("Error in fetch");
       return response.json();
     })
@@ -31,6 +32,7 @@ console.log(endpoint);
         "Email sent successfully!";
     })
     .catch((error) => {
+      console.log(error);
       document.getElementById("result-text").innerText =
         "An unkown error occured.";
     });
