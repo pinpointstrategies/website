@@ -2,7 +2,7 @@ const form = document.querySelector("form");
 if (form!==null){
   form.addEventListener("submit", (event) => {
     // prevent the form submit from refreshing the page
-    event.preventDefault();
+    //event.preventDefault();
     const { name, job, company, email, category, message } = event.target;
 
   	// Use your API endpoint URL you copied from the previous step

@@ -4,7 +4,7 @@ format:
   html:
     include-in-header:
       - text: |
-          <script defer src="../functions/contact.js"></script>
+          <script defer src="../functions/pages/contact.js"></script>
 ---
 
 <blockquote>
@@ -18,7 +18,7 @@ format:
 ```{=html}
 <main class="main_contact">
 <h2>Contact Us</h2>
-<form>
+<form action="/pages/contact.html", method="post">
   <div class="input">
     <label for="name">Full Name*</label>
     <input id="name" type="text" name="name"
@@ -47,7 +47,7 @@ format:
       <option value="MandS">Modeling and Simulation</option>
       <option value="ensembles">Ensembles</option>
       <option value="training">Training/Coaching</option>
-      <option value="opensience">Open Science</option>
+      <option value="openscience">Open Science</option>
       <option value="other">Other</option>
     </select>
   </div>
