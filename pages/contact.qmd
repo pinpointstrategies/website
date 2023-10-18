@@ -1,10 +1,5 @@
 ---
 title: "Contact"
-format:
-  html:
-    include-in-header:
-      - text: |
-          <script defer src="../functions/submit.js"></script>
 ---
 
 <blockquote>
@@ -16,6 +11,7 @@ format:
 </blockquote>
 
 ```{=html}
+<script defer src="../functions/submit.js"></script>
 <main class="main_contact">
 <h2>Contact Us</h2>
 <form>
