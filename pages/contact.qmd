@@ -4,7 +4,7 @@ format:
   html:
     include-in-header:
       - text: |
-          <script defer src="../functions/pages/contact.js"></script>
+          <script defer src="../functions/api/submit.js"></script>
 ---
 
 <blockquote>
@@ -18,7 +18,7 @@ format:
 ```{=html}
 <main class="main_contact">
 <h2>Contact Us</h2>
-<form action="/pages/contact", method="post">
+<form action="/api/submit", method="post">
   <div class="input">
     <label for="name">Full Name*</label>
     <input id="name" type="text" name="name"
