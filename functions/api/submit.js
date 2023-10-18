@@ -32,7 +32,7 @@ if (form!==null){
       })
       .then((response) => {
         document.getElementById("result-text").innerText =
-          "Email sent successfully!";
+          "Form submitted successfully!";
       })
       .catch((error) => {
         console.log(error);
