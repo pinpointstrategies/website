@@ -4,7 +4,7 @@ format:
   html:
     include-in-header:
       - text: |
-          <script defer src="../functions/api/submit.js"></script>
+          <script defer src="../functions/contact.js"></script>
 ---
 
 <blockquote>
