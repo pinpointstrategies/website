@@ -4,7 +4,7 @@ format:
   html:
     include-in-header:
       - text: |
-          <script src="../functions/api/submit.js"></script>
+          <script defer src="../functions/api/submit.js"></script>
 ---
 
 <blockquote>
@@ -17,9 +17,8 @@ format:
 
 ```{=html}
 <main class="main_contact">
-
-<form method="POST" action="/api/submit">
-
+<h2>Contact Us</h2>
+<form>
   <div class="input">
     <label for="name">Full Name*</label>
     <input id="name" type="text" name="name"
@@ -57,14 +56,16 @@ format:
     <label for="message">Specific Question</label>
     <textarea id="message" name="message"></textarea>
   </div>
-    
-  <button type="submit">Submit</button>
+  <input type="submit"/>
+  <div>
+    <p id="result-text"></p>
+  </div>
 </form>
 </main>
 ```
 ### Email
 
-support\@pinpointstrategies.io
+yoni\@pinpointstrategies.io
 
 ### Location
 
