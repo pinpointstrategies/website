@@ -4,6 +4,7 @@ project:
   resources:
     - functions
     - images
+    - _routes.json
 
 website:
   title: "Pinpoint Strategies"
