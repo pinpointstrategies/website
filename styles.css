@@ -75,7 +75,7 @@ blockquote p {
 	margin-right: 0.25rem;
 }
 
-button {
+input[type=submit] {
 	width: 100%;
 	display: block;
 	cursor: pointer;
@@ -89,7 +89,7 @@ button {
 	color: #000;
 }
 
-button:hover {
+input[type=submit]:hover {
 	background-color: var(--pincolor);
 	color: #fff;
 }
