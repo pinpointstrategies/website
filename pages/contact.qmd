@@ -26,13 +26,13 @@ format:
   </div>
 
   <div class="input">
-    <label for="jobtitle">Job Title*</label>
-    <input id="jobtitle" type="text" name="jobtitle" required />
+    <label for="job">Job Title*</label>
+    <input id="job" type="text" name="job" required />
   </div>
     
   <div class="input">
-    <label for="name">Company Name*</label>
-    <input id="companyname" type="text" name="companyname" required />
+    <label for="company">Company Name*</label>
+    <input id="company" type="text" name="company" required />
   </div>
 
   <div class="input">
@@ -41,8 +41,8 @@ format:
   </div>
 
   <div class="input">
-    <label for="helptype">What type of help do you need?*</label>
-    <select id="helptype" name="helptype" required>
+    <label for="category">What type of help do you need?*</label>
+    <select id="category" name="category" required>
       <option hidden disabled selected value>Select One</option>
       <option value="MandS">Modeling and Simulation</option>
       <option value="ensembles">Ensembles</option>
