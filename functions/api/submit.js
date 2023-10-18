@@ -2,7 +2,7 @@ const form = document.querySelector("form");
 if (form!==null){
   form.addEventListener("submit", (event) => {
     // prevent the form submit from refreshing the page
-    //event.preventDefault();
+    event.preventDefault();
     const { name, job, company, email, category, message } = event.target;
 
   	// Use your API endpoint URL you copied from the previous step
@@ -26,7 +26,6 @@ if (form!==null){
 
     fetch(endpoint, requestOptions)
       .then((response) => {
-        console.log("response.statusText =", response.statusText);
         if (!response.ok) throw new Error("Error in fetch");
         return response.json();
       })
@@ -35,7 +34,6 @@ if (form!==null){
           "Form submitted successfully!";
       })
       .catch((error) => {
-        console.log(error);
         document.getElementById("result-text").innerText =
           "An unkown error occured.";
       });

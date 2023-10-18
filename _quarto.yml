@@ -5,6 +5,7 @@ project:
     - functions
     - images
     - _routes.json
+  post-render: make all
 
 website:
   title: "Pinpoint Strategies"
