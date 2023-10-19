@@ -3,7 +3,7 @@ on:
   push:
     branches: main
 
-name: Quarto Publish to Cloudfare Pages
+name: Quarto Publish to Cloudfare Pages Prod
 
 jobs:
   build-deploy:
@@ -31,3 +31,4 @@ jobs:
           projectName: 'website'
           directory: 'docs' # or _site or any other directory you used as project's output-dir in `_quarto.yml`
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+          wranglerVersion: '3'

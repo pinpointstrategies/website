@@ -3,7 +3,7 @@ on:
   push:
     branches: dev
 
-name: Quarto Publish to Cloudfare Pages
+name: Quarto Publish to Cloudfare Pages Dev
 
 jobs:
   build-deploy:
