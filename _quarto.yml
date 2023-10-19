@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - functions
+    - images
+    - _routes.json
+  post-render: make all
 
 website:
   title: "Pinpoint Strategies"
@@ -10,15 +15,15 @@ website:
         text: Home
       - text: Services
         menu:
-          - href: pinpoint_analytics.qmd
+          - href: pages/pinpoint_analytics.qmd
             text: Pinpoint Analytics
-          - href: pinpoint_solutions.qmd
-            text: Pinpoint Solutions
-          - href: pinpoint_thinking.qmd
+          - href: pages/pinpoint_systems.qmd
+            text: Pinpoint Systems
+          - href: pages/pinpoint_thinking.qmd
             text: Pinpoint Thinking
-      - href: about.qmd
+      - href: pages/about.qmd
         text: About
-      - href: contact.qmd
+      - href: pages/contact.qmd
         text: Contact
 
     right:
@@ -28,10 +33,10 @@ website:
         aria-label: GitHub
       - icon: linkedin
         text: LinkedIn
-        href: https://www.linkedin.com/in/jonathan-sidi-397a4036/
+        href: https://www.linkedin.com/in/yoni-sidi-397a4036/
       - icon: envelope
         text: Email
-        href: "mailto:yoni@pinpointstrategies.io"
+        href: "mailto:support@pinpointstrategies.io"
 format:
   html:
     theme: cosmo

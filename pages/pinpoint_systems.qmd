@@ -1,0 +1,42 @@
+---
+title: "Pinpoint Systems"
+---
+
+Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These tools provide enhanced data visualization tools, package management, collaboration tools and statistical modeling.
+
+## Ensembles
+
+Our proprietary software streamlines project management, enhances collaboration, and ensures data security.
+
+## Open Source
+
+Through active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses.
+
+### Developed by Pinpoint Solutions
+
+```{=html}
+<div style="background-color: #feeacd; border-style: solid; border-radius: 10px; border-color: #000; border-width: 1px;">
+<a href="https://www.github.com/yonicd/carbonate"><img src="../images/hex/single/carbonate.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/covrpage"><img src="../images/hex/single/covrpage.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/details"><img src="../images/hex/single/details.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/helpdesk"><img src="../images/hex/single/helpdesk.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/reactor"><img src="../images/hex/single/reactor.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/ripe"><img src="../images/hex/single/ripe.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/shredder"><img src="../images/hex/single/shredder.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/slackreprex"><img src="../images/hex/single/slackreprex.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/slickr"><img src="../images/hex/single/slickr.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/snapper"><img src="../images/hex/single/snapper.png" width="75"></a> 
+<a href="https://www.github.com/yonicd/whereami"><img src="../images/hex/single/whereami.png" width="75"></a> 
+</div>
+```
+
+
+### Collaborations with external groups
+```{=html}
+<div style="background-color: #feebfa; border-style: solid; border-radius: 10px; border-color: #000; border-width: 1px;">
+<a href="https://www.github.com/jonocarroll/ggeasy"><img src="../images/hex/collab/ggeasy.png" width="75"></a> 
+<a href="https://www.github.com/openpharma/mmrm"><img src="../images/hex/collab/mmrm.png" width="75"></a> 
+<a href="https://www.github.com/ThinkR-open/remedy"><img src="../images/hex/collab/remedy.png" width="75"></a> 
+<a href="https://www.github.com/mrkaye97/slackr"><img src="../images/hex/collab/slackr.png" width="75"></a> 
+</div>
+```

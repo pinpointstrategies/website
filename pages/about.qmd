@@ -1,0 +1,24 @@
+---
+title: "Jonathan Sidi"
+about:
+  template: jolla
+  image: ../images/headshot.jpeg
+---
+
+Fifteen years of consulting for a diverse client base providing solutions in the fields of Clinical development, Health Economics, Macroeconomics, Macroprudential Stability, and Criminology.
+
+## Education
+
+PhD in Statistics, Hebrew University in Jerusalem, Jerusalem, Israel
+
+## Experience
+
+Director of Modeling and Simulation, Sage Therapeutics
+
+Research Scientist, Metrum Research Group
+
+Research Economist, Bank of Israel
+
+Research Analyst, Ministry of National Security, Israel
+
+Research Statistician, Van Leer Institute, Israel

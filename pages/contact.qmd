@@ -1,0 +1,74 @@
+---
+title: "Contact"
+format:
+  html:
+    include-in-header:
+      - text: |
+          <script defer src="../site_libs/api/submit.js"></script>
+---
+
+<blockquote>
+
+<p>Seeking more information?</p>
+
+<p><b>Please fill in the form below.</b></p>
+
+</blockquote>
+
+```{=html}
+<main class="main_contact">
+<h2>Contact Us</h2>
+<form>
+  <div class="input">
+    <label for="name">Full Name*</label>
+    <input id="name" type="text" name="name"
+    required />
+  </div>
+
+  <div class="input">
+    <label for="job">Job Title*</label>
+    <input id="job" type="text" name="job" required />
+  </div>
+    
+  <div class="input">
+    <label for="company">Company Name*</label>
+    <input id="company" type="text" name="company" required />
+  </div>
+
+  <div class="input">
+    <label for="email">Email Address*</label>
+    <input id="email" type="email" name="email" required />
+  </div>
+
+  <div class="input">
+    <label for="category">What type of help do you need?*</label>
+    <select id="category" name="category" required>
+      <option hidden disabled selected value>Select One</option>
+      <option value="MandS">Modeling and Simulation</option>
+      <option value="ensembles">Ensembles</option>
+      <option value="training">Training/Coaching</option>
+      <option value="openscience">Open Science</option>
+      <option value="other">Other</option>
+    </select>
+  </div>
+
+  <div class="input">
+    <label for="message">Specific Question</label>
+    <textarea id="message" name="message"></textarea>
+  </div>
+  
+  <input type="submit" value="Click to Submit Form"/>
+  
+  <div>
+    <p id="result-text"></p>
+  </div>
+</form>
+</main>
+```
+### Email
+
+support\@pinpointstrategies.io
+
+### Location
+
+177 Huntington Ave Ste 1703 PMB 775613, Boston, MA, 02115-3153, US
