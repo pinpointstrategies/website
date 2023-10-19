@@ -3,10 +3,6 @@ title: "Jonathan Sidi"
 about:
   template: jolla
   image: ../images/headshot.jpeg
-  links:
-    - icon: github
-      text: Github
-      href: https://github.com/pinpointstrategies
 ---
 
 Fifteen years of consulting for a diverse client base providing solutions in the fields of Clinical development, Health Economics, Macroeconomics, Macroprudential Stability, and Criminology.
