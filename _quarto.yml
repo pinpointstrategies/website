@@ -17,8 +17,8 @@ website:
         menu:
           - href: pages/pinpoint_analytics.qmd
             text: Pinpoint Analytics
-          - href: pages/pinpoint_solutions.qmd
-            text: Pinpoint Solutions
+          - href: pages/pinpoint_systems.qmd
+            text: Pinpoint Systems
           - href: pages/pinpoint_thinking.qmd
             text: Pinpoint Thinking
       - href: pages/about.qmd

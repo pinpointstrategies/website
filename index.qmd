@@ -35,3 +35,8 @@ title: ""
 </section>
 <h2>Insights, Efficiency and Innovation</h2>
 ```
+**Pinpoint Analytics**: Decode intricate data puzzles, craft actionable insights through advanced modeling and intuitive visualizations
+
+**Pinpoint Systems**: Open-source and proprietary tools designed to address common data science and organizational challenges
+
+**Pinpoint Thinking**: Coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges

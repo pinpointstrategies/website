@@ -1,0 +1,34 @@
+---
+title: "Pinpoint Systems"
+---
+
+Pinpoint Solutions offers a wide range of open-source and proprietary tools designed to address common data science and organizational challenges. The comprehensive library includes advanced packages and scripts written in R, JavaScript and Stan. These tools provide enhanced data visualization tools, package management, collaboration tools and statistical modeling.
+
+## Ensembles
+
+Our proprietary software streamlines project management, enhances collaboration, and ensures data security.
+
+## Open Source
+
+Through active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses.
+
+### Developed by Pinpoint Solutions
+
+<div style="background-color: #feeacd; border-style: solid; border-radius: 10px; border-color: #000; border-width: 1px;">
+```{r , results = "asis", echo = FALSE}
+fig_file_single <- dir(path = "../images/hex/single", pattern = "png$")
+repo_path <- glue::glue('https://www.github.com/yonicd/{tools::file_path_sans_ext(fig_file_single)}')
+glue::glue('<a href="{repo_path}"><img src="../images/hex/single/{fig_file_single}" width="75"></a> ')
+
+```
+</div>
+
+### Collaborations with external groups
+
+<div style="background-color: #feebfa; border-style: solid; border-radius: 10px; border-color: #000; border-width: 1px;">
+```{r , results = "asis", echo = FALSE}
+fig_file_collab <- dir(path = "../images/hex/collab", pattern = "png$")
+repo_path <- glue::glue('https://www.github.com/yonicd/{tools::file_path_sans_ext(fig_file_collab)}')
+glue::glue('<a href="{repo_path}"><img src="../images/hex/collab/{fig_file_collab}" width="75"></a> ')
+```
+</div>
