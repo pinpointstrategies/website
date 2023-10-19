@@ -67,7 +67,7 @@ format:
 ```
 ### Email
 
-yoni\@pinpointstrategies.io
+support\@pinpointstrategies.io
 
 ### Location
 
