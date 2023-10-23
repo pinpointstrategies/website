@@ -1,14 +1,18 @@
 ---
 title: ""
+format:
+  html:
+    include-in-header: 
+      text: |
+       <link rel="preconnect" href="https://fonts.googleapis.com">
+       <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+       <link href="https://fonts.googleapis.com/css2?family=Karla:wght@300;400&display=swap" rel="stylesheet">
 ---
 
 ```{=html}
 <section>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 55">
   <defs>
-  <style type="text/css">
-  @import url(https://fonts.googleapis.com/css2?family=Karla:wght@300;400&display=swap);
-  </style>
   <g id="logo">
     <circle cx="50" cy="26" r="15" fill="var(--pincolor)"  stroke="black" stroke-width="2"/>
     <circle cx="50" cy="49.5" r="48" fill="none" stroke="var(--textcolor)" stroke-width="12"/>
@@ -35,7 +39,7 @@ title: ""
 </section>
 <h2>Insights, Efficiency and Innovation</h2>
 ```
-
+```{=html}
 <!--
 **Pinpoint Analytics**: Decode intricate data puzzles, craft actionable insights through advanced modeling and intuitive visualizations
 
@@ -43,3 +47,4 @@ title: ""
 
 **Pinpoint Thinking**: Coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges
 -->
+```
