@@ -58,7 +58,7 @@ format:
   <div class="card-body">
     <h5 class="card-title">Pinpoint Analytics</h5>
     <p class="card-text">Decode intricate data puzzles, craft actionable insights through advanced modeling and intuitive visualizations.</p>
-    <a href="pages/pinpoint_analytics.html" class="btn more-info-button" style="background-color: #24cad6;">Learn More</a>
+    <a href="pages/pinpoint_analytics.html" class="btn more-info-button" style="background-color: #24cad6;float: right;">Learn More</a>
   </div>
 </div>
 </div>
@@ -77,7 +77,7 @@ format:
   <div class="card-body">
     <h5 class="card-title">Pinpoint Thinking</h5>
     <p class="card-text">Coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges.</p>
-    <a href="pages/pinpoint_thinking.html" class="btn more-info-button" style="background-color: #a654e5;">Learn More</a>
+    <a href="pages/pinpoint_thinking.html" class="btn more-info-button" style="background-color: #a654e5;float: right;">Learn More</a>
   </div>
 </div>
 
