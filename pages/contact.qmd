@@ -20,11 +20,7 @@ format:
 
 :::: {.columns}
 
-::: {.column width="20%"}
-
-### Email
-
-support\@pinpointstrategies.io
+::: {.column width="25%"}
 
 ### Location
 
@@ -36,7 +32,7 @@ support\@pinpointstrategies.io
 <!-- empty column to create gap -->
 :::
 
-::: {.column width="70%"}
+::: {.column width="65%"}
 
 ::: {.panel-tabset}
 ## Contact Form
@@ -82,7 +78,7 @@ support\@pinpointstrategies.io
     <textarea id="message" name="message"></textarea>
   </div>
   
-  <input type="submit" value="Click to Submit Form"/>
+  <input type="submit" value="Submit"/>
   
   <div>
     <p id="result-text"></p>

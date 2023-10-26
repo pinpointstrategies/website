@@ -53,10 +53,10 @@ format:
 
 <div class="card-deck">
 
-<div class="card" style="">
+<div class="card">
   <img class="card-img-top" src="../images/pinpoint-analytics.svg" alt="Card image cap">
   <div class="card-body">
-    <h5 class="card-title" style="">Pinpoint Analytics</h5>
+    <h5 class="card-title">Pinpoint Analytics</h5>
     <p class="card-text">Decode intricate data puzzles, craft actionable insights through advanced modeling and intuitive visualizations.</p>
     <a href="pages/pinpoint_analytics.html" class="btn more-info-button" style="background-color: #24cad6;">Learn More</a>
   </div>
