@@ -1,0 +1,38 @@
+
+.card {
+  flex-direction: row;
+  align-items: center;
+  border-radius: 50px;
+  border: 1px solid rgba(0,0,0,.125);
+  overflow: hidden;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card-content {
+}
+
+.card-text {
+}
+
+.card-img-top {
+  width: 35%;
+}
+
+
+
+.more-info-button {
+    color: #fff;
+    border: none;
+    padding: 10px 50px;
+    border-radius: 35px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.more-info-button:hover {
+    color: #fff;
+}
+
