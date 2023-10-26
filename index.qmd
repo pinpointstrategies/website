@@ -48,3 +48,39 @@ format:
 **Pinpoint Thinking**: Coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges
 -->
 ```
+
+```{=html}
+
+<div class="card-deck">
+
+<div class="card">
+  <img class="card-img-top" src="../images/pinpoint-analytics.svg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Pinpoint Analytics</h5>
+    <p class="card-text">Decode intricate data puzzles, craft actionable insights through advanced modeling and intuitive visualizations.</p>
+    <a href="pages/pinpoint_analytics.html" class="btn more-info-button" style="background-color: #24cad6;">Learn More</a>
+  </div>
+</div>
+</div>
+
+<div class="card  mt-2">
+  <div class="card-body">
+    <h5 class="card-title">Pinpoint Systems</h5>
+    <p class="card-text">Open-source and proprietary tools designed to address common data science and organizational challenges.</p>
+    <a href="pages/pinpoint_systems.html" class="btn more-info-button" style="background-color: #ef3f12;">Learn More</a>
+  </div>
+  <img class="card-img-top" src="../images/pinpoint-systems.svg" alt="Card image cap">
+</div>
+
+<div class="card  mt-2">
+  <img class="card-img-top " src="../images/pinpoint-thinking.svg" alt="Pinpoint Thinking Logo">
+  <div class="card-body">
+    <h5 class="card-title">Pinpoint Thinking</h5>
+    <p class="card-text">Coaching and strategy services, empowering clients to navigate complex data science and clinical development challenges.</p>
+    <a href="pages/pinpoint_thinking.html" class="btn more-info-button" style="background-color: #a654e5;">Learn More</a>
+  </div>
+</div>
+
+
+```
+
