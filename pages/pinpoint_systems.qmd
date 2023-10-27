@@ -12,7 +12,7 @@ Our proprietary software streamlines project management, enhances collaboration,
 
 Through active engagement with the open-source community and continuous research, Pinpoint Solutions remains at the forefront of technological advancements, providing practical and up-to-date solutions for businesses.
 
-### Developed by Pinpoint Solutions
+### Developed by Pinpoint Systems
 
 ```{=html}
 <div style="background-color: #feeacd; border-style: solid; border-radius: 10px; border-color: #000; border-width: 1px;">
